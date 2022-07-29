@@ -1,0 +1,158 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <link href="~/css/font-awesome-4.6.3/css/font-awesome.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="https://cdn.rawgit.com/PascaleBeier/bootstrap-validate/v2.2.0/dist/bootstrap-validate.js"></script>
+</head>
+<style>
+    .font:hover {
+        color: #FA748F;
+    }
+</style>
+<body style="background:#dddddd ;padding: 0px 0px;">
+    <div class="text-center">
+        <div class="row" style="width:100%;padding: 0px 0px;">
+            <div class="col-md-2 p-2" style="background:#FA748F">
+                <a href="/">
+                    <img src="~/Public/images/Name.png" style="height:60px; width:160px; margin-left:80px" href="/" />
+                </a>
+            </div>
+
+            <div class="col-md-4 pt-4" style="background:#FA748F">
+                <div>
+                    @using (Html.BeginForm("SearchResult", "SanPham", FormMethod.Post, new { @class = "navbar-form", @role = "search" }))
+                    {
+
+                        <input class="form-control me-2" type="text" name="txtSearch" placeholder="Tìm kiếm san pham..." style="float: left; width: 74%;" />
+
+                        <button class="btn bg-white" type="submit">Tìm Kiếm</button>
+
+                    }
+                </div>
+            </div>
+
+            <div class="col-md-6" style="background:#f0f0f0">
+                @*<div class="icon" style="float:left">
+                        <ul style="list-style:none">
+                            <li style="float:left">
+                                <a href="/gioithieu"><img src="~/Public/images/GioiThieu.PNG" style="height:35px; width:45px;margin-left:60px;margin-top:10px" href="/gioithieu" /></a>
+                            </li>
+                            <li style="float:left">
+                                <a href="~/SanPham/TatCaSanPham"><img src="~/Public/images/SanPham.PNG" style="height:35px; width:45px;margin-left:70px;margin-top:10px" href="/AllSanPham" /></a>
+
+                            </li>
+                            <li style="float:left">
+                                <a href="/UuDai"><img src="~/Public/images/ThongBao.PNG" style="height:35px; width:45px;margin-left:55px;margin-top:10px " href="/UuDai" /></a>
+
+                            </li>
+                            <li style="float:left">
+                                <a href="/LienHe"><img src="~/Public/images/LienHe.PNG" style="height:35px; width:45px; margin-left:55px;margin-top:10px" href="/LienHe" /></a>
+
+                            </li>
+                            <li style="float:left">
+                               @Html.Action("CartIcon", "GioHang")<a href="/GioHang/Index"><img src="~/Public/images/GioHang.PNG" style="height:35px; width:45px;margin-top:10px " href="/GioHang/Index" /></a>
+
+                            </li>
+                            <li style="float:left">
+                                <a href="/admin"><img src="~/Public/images/TaiKhoan.PNG" style="height:35px; width:45px;margin-left:50px;margin-top:10px" href="/admin" /></a>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="container" style="float:left">
+                        <ul class="nav">
+                            <li class="nav-item">
+                                <a href="/gioithieu" style="text-decoration:none; color:#808080; font-weight:bold; padding-left:65px">GIỚI THIỆU</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="~/SanPham/TatCaSanPham" style="text-decoration:none; color:#808080; font-weight:bold; padding-left:30px">SẢN PHẨM</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="/UuDai" style="text-decoration:none; color:#808080; font-weight:bold; padding-left:30px">ƯU ĐÃI</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="/LienHe" style="text-decoration:none; color:#808080; font-weight:bold; padding-left:36px">LIÊN HỆ</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="/GioHang/Index" style="text-decoration:none; color:#808080; font-weight:bold; padding-left:35px">GIỎ HÀNG</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="/admin" style="text-decoration:none; color:#808080; font-weight:bold; padding-left:30px">ADMIN</a>
+                            </li>
+                        </ul>
+                    </div>*@
+
+                @Html.Action("Login", "TaiKhoan")
+            </div>
+
+
+        </div>
+
+
+
+        <div class="row" style="background:white; width:100%; ">
+            <div class="col-md-2  card" style="position: static; ">
+                @Html.Action("LoaiPartial", "Loai")
+            </div>
+            <div class="col-md-10" style="margin-bottom:20px;margin-top: 10px;">
+                <div>
+                    @RenderBody()
+                </div>
+
+            </div>
+        </div>
+
+
+
+        <div class="row" style="width: 100%">
+            <div class="col-md-4" style="background:#FA748F; color:#ffffff">
+                <br>
+                <a style="font-weight:bold">HỖ TRỢ KHÁCH HÀNG</a><br />
+                <a>Thắc mắc - Hỏi đáp</a><br />
+                <a>Hướng dẫn mua hàng</a><br />
+                <a>Đặt hàng & Thanh toán</a><br />
+            </div>
+            <div class="col-md-4" style="background:#FA748F; color:#ffffff">
+                <br>
+                <a style="font-weight:bold">THÔNG TIN LIÊN HỆ</a><br />
+                <a>140 Lê Trọng Tấn, Tây Thạnh, Tân Phú </a><br />
+                <a>Hotline: 012345678 - 098765432</a><br />
+                <a>Tư vấn bán hàng từ(8h - 20h thứ 2 - chủ nhật)</a><br />
+            </div>
+            <div class="col-md-4" style="background:#FA748F; color:#ffffff">
+                <br>
+                <a style="font-weight:bold">KẾT NỐI VỚI CHÚNG TÔI</a><br />
+                <a></a><br />
+                <a href="https://www.facebook.com/"><img src="~/Public/images/fb.jpg" style="width:40px; height:40px;" href="#" /></a>
+                <a href="https://www.instagram.com/"><img src="~/Public/images/IG.jpg" style="width:40px; height:40px;" href="#" /></a>
+                <a href="https://www.twitter.com/"><img src="~/Public/images/wb.jpg" style="width:40px; height:40px;" href="#" /></a>
+                <br />
+                <a></a><br />
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+    $("a").click(function () {
+        $("a").css("background-color", "");
+        $(this).css("background-color", "");
+    });
+    </script>
+
+    @RenderSection("jsFooter", required: false)
+
+
+</body>
+</html>
+
+
+

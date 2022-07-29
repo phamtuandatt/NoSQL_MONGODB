@@ -1,0 +1,123 @@
+﻿@model Nhom05_NoSQL.Models.KhachHang
+@{
+    Layout = null;
+}
+
+@if (Session["User"] == null)
+{
+
+    <div class="icon" style="float:left">
+        <ul style="list-style:none">
+            <li style="float:left">
+                <a href="~/Home/GioiThieu"><img src="~/Public/images/GioiThieu.PNG" style="height:35px; width:45px;margin-left:60px;margin-top:10px" href="~/Home/GioiThieu" /></a>
+            </li>
+            <li style="float:left">
+                <a href="~/SanPham/TatCaSanPham"><img src="~/Public/images/SanPham.PNG" style="height:35px; width:45px;margin-left:70px;margin-top:10px" href="~/SanPham/TatCaSanPham" /></a>
+
+            </li>
+            <li style="float:left">
+                <a href="~/Home/UuDai"><img src="~/Public/images/ThongBao.PNG" style="height:35px; width:45px;margin-left:55px;margin-top:10px " href="~/Home/UuDai" /></a>
+
+            </li>
+            <li style="float:left">
+                <a href="~/Home/LienHe"><img src="~/Public/images/LienHe.PNG" style="height:35px; width:45px; margin-left:55px;margin-top:10px" href="~/Home/LienHe" /></a>
+
+            </li>
+            <li style="float:left">
+                @Html.Action("CartIcon", "GioHang")<a href="/GioHang/Index"><img src="~/Public/images/GioHang.PNG" style="height:35px; width:45px;margin-top:10px " href="/GioHang/Index" /></a>
+
+            </li>
+            <li style="float:left">
+                <a href="/TaiKhoan/PageDangNhap"><img src="~/Public/images/TaiKhoan.PNG" style="height:35px; width:45px;margin-left:60px;margin-top:10px" href="/TaiKhoan/PageDangNhap" /></a>
+            </li>
+        </ul>
+
+    </div>
+    <div class="container" style="float:left">
+        <ul class="nav">
+            <li class="nav-item">
+                <a href="~/Home/GioiThieu" style="text-decoration:none; color:#808080; font-weight:bold; padding-left:65px">GIỚI THIỆU</a>
+            </li>
+            <li class="nav-item">
+                <a href="~/SanPham/TatCaSanPham" style="text-decoration:none; color:#808080; font-weight:bold; padding-left:30px">SẢN PHẨM</a>
+            </li>
+            <li class="nav-item">
+                <a href="~/Home/UuDai" style="text-decoration:none; color:#808080; font-weight:bold; padding-left:30px">ƯU ĐÃI</a>
+            </li>
+            <li class="nav-item">
+                <a href="~/Home/LienHe" style="text-decoration:none; color:#808080; font-weight:bold; padding-left:36px">LIÊN HỆ</a>
+            </li>
+            <li class="nav-item">
+                <a href="/GioHang/Index" style="text-decoration:none; color:#808080; font-weight:bold; padding-left:35px">GIỎ HÀNG</a>
+            </li>
+            <li class="nav-item">
+                <a href="/TaiKhoan/PageDangNhap" style=" text-decoration:none; color:#808080; font-weight:bold; padding-left:30px">ĐĂNG NHẬP</a>
+            </li>
+        </ul>
+    </div>
+}
+else
+{
+    <div class="icon" style="float:left">
+        <ul style="list-style:none">
+            <li style="float:left">
+                <a href="~/Home/GioiThieu"><img src="~/Public/images/GioiThieu.PNG" style="height:35px; width:45px;margin-top:10px" href="~/Home/GioiThieu" /></a>
+            </li>
+            <li style="float:left">
+                <a href="~/SanPham/TatCaSanPham"><img src="~/Public/images/SanPham.PNG" style="height:35px; width:45px;margin-left:70px;margin-top:10px" href="~/SanPham/TatCaSanPham" /></a>
+
+            </li>
+            <li style="float:left">
+                <a href="~/Home/UuDai"><img src="~/Public/images/ThongBao.PNG" style="height:35px; width:45px;margin-left:55px;margin-top:10px " href="~/Home/UuDai" /></a>
+
+            </li>
+            <li style="float:left">
+                <a href="~/Home/LienHe"><img src="~/Public/images/LienHe.PNG" style="height:35px; width:45px; margin-left:55px;margin-top:10px" href="~/Home/LienHe" /></a>
+
+            </li>
+            <li style="float:left">
+                @Html.Action("CartIcon", "GioHang")<a href="/GioHang/Index"><img src="~/Public/images/GioHang.PNG" style="height:35px; width:45px;margin-top:10px " href="/GioHang/Index" /></a>
+
+            </li>
+            <li style="float:left">
+                <a href="/TaiKhoan/PageDangNhap"><img src="~/Public/images/TaiKhoan.PNG" style="height:35px; width:45px;margin-left:39px;margin-top:10px" href="/TaiKhoan/PageDangNhap" /></a>
+            </li>
+        </ul>
+
+    </div>
+    <div class="container" style="float:left">
+        <ul class="nav">
+            <li class="nav-item">
+                <a href="~/Home/GioiThieu" style="text-decoration:none; color:#808080; font-weight:bold; ">GIỚI THIỆU</a>
+            </li>
+            <li class="nav-item">
+                <a href="~/SanPham/TatCaSanPham" style="text-decoration:none; color:#808080; font-weight:bold; padding-left:30px">SẢN PHẨM</a>
+            </li>
+            <li class="nav-item">
+                <a href="~/Home/UuDai" style="text-decoration:none; color:#808080; font-weight:bold; padding-left:30px">ƯU ĐÃI</a>
+            </li>
+            <li class="nav-item">
+                <a href="~/Home/LienHe" style="text-decoration:none; color:#808080; font-weight:bold; padding-left:36px">LIÊN HỆ</a>
+            </li>
+            <li class="nav-item">
+                <a href="/GioHang/Index" style="text-decoration:none; color:#808080; font-weight:bold; padding-left:35px">GIỎ HÀNG</a>
+            </li>
+            <li class="nav-item">
+                <a class=" nav-link dropdown-toggle" data-toggle="dropdown" href="#" style="text-transform: uppercase;color:#808080;font-weight:bold;padding: 0px 0px;
+    padding-left: 19px;
+}">
+                    <i class="fa fa-user-o" aria-hidden="true"></i>
+                    @Session["User"]
+                </a>
+                <ul class="dropdown-menu dropdown-user">
+                    <li>
+                        <a href="~/TaiKhoan/ThongTinUser" style="color:black"><i class="fa fa-smile-o" style="margin-right: 5px;" aria-hidden="true"></i> Hồ sơ</a>
+                    </li>
+                    <li>
+                        <a href="~/TaiKhoan/DangXuat" style="color:black"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>Đăng xuất</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+}

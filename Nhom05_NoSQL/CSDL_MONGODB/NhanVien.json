@@ -1,0 +1,166 @@
+[{
+  "_id": {
+    "$oid": "626942d1bc888100e7b7c48b"
+  },
+  "Username": "vovantin",
+  "Pass": "123",
+  "HoTen": "Võ Văn Tin",
+  "NgaySinh": "21/12/2001",
+  "GioiTinh": "Nam",
+  "DiaChi": "GiaLai",
+  "Sdt": "0123456789"
+},{
+  "_id": {
+    "$oid": "62694430bc888100e7b7c48c"
+  },
+  "Username": "nguyenngocnhung",
+  "Pass": "123",
+  "HoTen": "Nguyễn Ngọc Nhung",
+  "NgaySinh": "21/12/2001",
+  "GioiTinh": "Nữ",
+  "DiaChi": "TPHCM",
+  "Sdt": "0123456788"
+},{
+  "_id": {
+    "$oid": "6269445cbc888100e7b7c48d"
+  },
+  "Username": "phamtuandat",
+  "Pass": "123",
+  "HoTen": "Phạm Tuấn Đạt",
+  "NgaySinh": "21/12/2001",
+  "GioiTinh": "Nam",
+  "DiaChi": "TPHCM",
+  "Sdt": "0123456777"
+},{
+  "_id": {
+    "$oid": "62694485bc888100e7b7c48e"
+  },
+  "Username": "buithiaily",
+  "Pass": "123",
+  "HoTen": "Bùi Thị Ái Ly",
+  "NgaySinh": "21/12/2001",
+  "GioiTinh": "Nữ",
+  "DiaChi": "TPHCM",
+  "Sdt": "0123456666"
+},{
+  "_id": {
+    "$oid": "626c15484a230c702e136803"
+  },
+  "Username": "vanmang",
+  "Pass": "vanmang",
+  "HoTen": "Nguyễn Văn Măng",
+  "GioiTinh": "Nữ",
+  "DiaChi": "Vũng Tàu",
+  "Sdt": "0321654987",
+  "NgaySinh": "29/04/2000"
+},{
+  "_id": {
+    "$oid": "626c15b97c19060769d62ad0"
+  },
+  "Username": "thitre",
+  "Pass": "thitre",
+  "HoTen": "Trần Thị Tre",
+  "GioiTinh": "Nữ",
+  "DiaChi": "Đồng Nai",
+  "Sdt": "0659874123",
+  "NgaySinh": "11/04/2000"
+},{
+  "_id": {
+    "$oid": "626d455d5bb321c2224a2754"
+  },
+  "Username": "vancay",
+  "Pass": "vancay",
+  "HoTen": "Trần Văn Cây",
+  "GioiTinh": "Nữ",
+  "DiaChi": "Đồng Nai",
+  "Sdt": "0659874123",
+  "NgaySinh": "11/04/2000"
+},{
+  "_id": {
+    "$oid": "626d45765bb321c2224a2755"
+  },
+  "Username": "vannu",
+  "Pass": "vannu",
+  "HoTen": "Nguyễn Văn Nữ",
+  "GioiTinh": "Nữ",
+  "DiaChi": "Đồng Nai",
+  "Sdt": "0659874123",
+  "NgaySinh": "11/04/2000"
+},{
+  "_id": {
+    "$oid": "626d45985bb321c2224a2756"
+  },
+  "Username": "vanhien",
+  "Pass": "vanhien",
+  "HoTen": "Trần Văn Hiền",
+  "GioiTinh": "Nữ",
+  "DiaChi": "Đồng Nai",
+  "Sdt": "0659874123",
+  "NgaySinh": "11/04/2000"
+},{
+  "_id": {
+    "$oid": "626d45c65bb321c2224a2757"
+  },
+  "Username": "congdanh",
+  "Pass": "congdanh",
+  "HoTen": "Đoàn Công Danh",
+  "GioiTinh": "Nữ",
+  "DiaChi": "Đồng Nai",
+  "Sdt": "0659874123",
+  "NgaySinh": "11/04/2000"
+},{
+  "_id": {
+    "$oid": "626d45e05bb321c2224a2758"
+  },
+  "Username": "vanan",
+  "Pass": "vanan",
+  "HoTen": "Trần Văn An",
+  "GioiTinh": "Nữ",
+  "DiaChi": "Đồng Nai",
+  "Sdt": "0659874123",
+  "NgaySinh": "11/04/2000"
+},{
+  "_id": {
+    "$oid": "626d45f25bb321c2224a2759"
+  },
+  "Username": "minhmoi",
+  "Pass": "minhmoi",
+  "HoTen": "Trần Minh Moi",
+  "GioiTinh": "Nữ",
+  "DiaChi": "Đồng Nai",
+  "Sdt": "0659874123",
+  "NgaySinh": "11/04/2000"
+},{
+  "_id": {
+    "$oid": "626d46055bb321c2224a275a"
+  },
+  "Username": "caokeu",
+  "Pass": "caokeu",
+  "HoTen": "Trần Cao Kều",
+  "GioiTinh": "Nữ",
+  "DiaChi": "Đồng Nai",
+  "Sdt": "0659874123",
+  "NgaySinh": "11/04/2000"
+},{
+  "_id": {
+    "$oid": "626d461c5bb321c2224a275b"
+  },
+  "Username": "minhminh",
+  "Pass": "minhminh",
+  "HoTen": "Trần Minh Minh",
+  "GioiTinh": "Nữ",
+  "DiaChi": "Đồng Nai",
+  "Sdt": "0659874123",
+  "NgaySinh": "11/04/2000"
+},{
+  "_id": {
+    "$oid": "626d463b5bb321c2224a275c"
+  },
+  "Username": "thanhhuy",
+  "Pass": "thanhhuy",
+  "HoTen": "Nguyễn Thanh Huy",
+  "GioiTinh": "Nữ",
+  "DiaChi": "Đồng Nai",
+  "Sdt": "0659874123",
+  "NgaySinh": "11/04/2000"
+}]

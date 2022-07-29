@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "62693868f2ca75391b351a44"
+  },
+  "MaLoai": "A01",
+  "TenLoai": "Công cụ trang điểm"
+},{
+  "_id": {
+    "$oid": "6269388df2ca75391b351a45"
+  },
+  "MaLoai": "A02",
+  "TenLoai": "Chăm sóc da"
+},{
+  "_id": {
+    "$oid": "626938bcf2ca75391b351a46"
+  },
+  "MaLoai": "A03",
+  "TenLoai": "Chăm sóc tóc"
+},{
+  "_id": {
+    "$oid": "626938d1f2ca75391b351a47"
+  },
+  "MaLoai": "A04",
+  "TenLoai": "Trang điểm"
+},{
+  "_id": {
+    "$oid": "626938e8f2ca75391b351a48"
+  },
+  "MaLoai": "A05",
+  "TenLoai": "Chăm sóc cơ thể"
+},{
+  "_id": {
+    "$oid": "626938fcf2ca75391b351a49"
+  },
+  "MaLoai": "A06",
+  "TenLoai": "Nước hoa"
+},{
+  "_id": {
+    "$oid": "6269390df2ca75391b351a4a"
+  },
+  "MaLoai": "A07",
+  "TenLoai": "Chăm sóc cá nhân"
+},{
+  "_id": {
+    "$oid": "6269391ef2ca75391b351a4b"
+  },
+  "MaLoai": "A08",
+  "TenLoai": "Tinh dầu"
+}]

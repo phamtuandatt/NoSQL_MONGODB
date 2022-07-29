@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "626e9ad96b41b9a72155b231"
+  },
+  "Username": "vovantin",
+  "Pass": "1234",
+  "HoTen": "Võ Văn Tin",
+  "NgaySinh": "12/03/2001",
+  "GioiTinh": "Nam",
+  "DiaChi": "GiaLai",
+  "Sdt": "0123456789"
+},{
+  "_id": {
+    "$oid": "626e9b066b41b9a72155b233"
+  },
+  "Username": "nguyenngocnhung",
+  "Pass": "1234",
+  "HoTen": "Nguyễn Ngọc Nhung",
+  "NgaySinh": "12/12/2001",
+  "GioiTinh": "Nữ",
+  "DiaChi": "Đồn Nai",
+  "Sdt": "0123456789"
+},{
+  "_id": {
+    "$oid": "626e9bc66b41b9a72155b235"
+  },
+  "Username": "aily",
+  "Pass": "1234",
+  "HoTen": "Bùi Thị Ái Ly",
+  "NgaySinh": "09/26/2001",
+  "GioiTinh": "Nữ",
+  "DiaChi": "Bình Định123",
+  "Sdt": "0123456789"
+}]

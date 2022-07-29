@@ -1,0 +1,91 @@
+﻿@{
+    ViewBag.Title = "ThanhToan";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+
+
+@using Nhom05_NoSQL.Models;
+@model List<Nhom05_NoSQL.Models.GioHang>
+@section jsFooter{
+    <script src="/Content/Client/js/controller/cartController.js"></script>
+}
+<h2 style="margin-bottom: 20px;    margin-top: 15px;    margin-left: 26px;">Thông tin đặt hàng</h2>
+@if (Model.Count > 0)
+{
+    <table id="cart" class="table table-condensed" style="margin-left: 26px;">
+        <thead>
+            <tr>
+                <th style="width:50%">Sản phẩm</th>
+                <th style="width:10%">Giá</th>
+                <th style="width:8%">Số lượng</th>
+                <th style="width:22%" class="text-center">Thành tiền</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td data-th="Product">
+                        <div class="row">
+                            <div class="col-sm-2 hidden-xs"><img src="~/Public/images/@item.sp.AnhBia" alt="@item.sp.AnhBia" class="img-responsive" style="width: 150px; height: auto; margin-left: 31px;" /></div>
+                            <div class="col-sm-10">
+                                <h4 class="nomargin" style="margin-left: 29%;font-size: 19px; font-weight: bold;">@item.sp.TenSP</h4>
+                            </div>
+                        </div>
+                    </td>
+                    <td data-th="Price">
+
+                        <span>
+                            @item.sp.GiaBan.ToString("N0") VND
+                        </span>
+
+
+                    </td>
+                    <td data-th="Quantity">
+                        <input type="number" style="border: none;" class="txtQuantity" readonly="readonly" data-id="@item.sp.MaSP" value="@item.iSoLuong">
+                    </td>
+                    <td data-th="Subtotal" class="text-center">
+
+
+                        <span>
+                            @((item.sp.GiaBan * item.iSoLuong).ToString("N0")) VND
+                        </span>
+
+
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+
+            <tr>
+                <td style="float:left">
+                    <a href="/GioHang/Index" class="btn btn-primary" style="background-color: #FA748F; border-color: #FA748F;"><i class="fa fa-angle-left"></i> Trở về</a>
+                </td>
+                <td colspan="2" class="hidden-xs"></td>
+                <td class="hidden-xs text-center"><strong style="font-size: 15px;">Tổng cộng: @String.Format("{0:0,0}", ViewBag.Total) VND</strong></td>
+                <td>@*<a href="#" class="btn btn-success btn-block">Đặt hàng <i class="fa fa-angle-right"></i></a>*@</td>
+            </tr>
+        </tfoot>
+    </table>
+    @Html.Action("ThongTinKhachHang", "GioHang")
+
+}
+else
+{
+    <span class="alert alert-danger">Chưa có sản phẩm nào trong giỏ hàng</span>
+    <br />
+    <a href="/SanPHam/TatCaSanPham" style="margin-top: 20px;" class="btn btn-warning"> Tiếp tục mua hàng</a>
+}
+
+<style>
+    .product-price {
+        font-size: 13px;
+        line-height: 1.5;
+        color: #212529;
+        font-weight: 100;
+    }
+</style>

@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "627286da5ce98e3cacd8a534"
+  },
+  "HoTen": "Bùi Thị Ái Ly",
+  "NgayDat": {
+    "$date": {
+      "$numberLong": "1651672792402"
+    }
+  },
+  "TongSL": 1,
+  "DiaChiGH": "Bình Định123",
+  "ThanhTien": 65000
+},{
+  "_id": {
+    "$oid": "627288c95ce98e3cacd8a535"
+  },
+  "HoTen": "Bùi Thị Ái Ly",
+  "NgayDat": {
+    "$date": {
+      "$numberLong": "1651673289368"
+    }
+  },
+  "TongSL": 3,
+  "DiaChiGH": "Bình Định123",
+  "ThanhTien": 150000
+},{
+  "_id": {
+    "$oid": "62728b7a5ce98e167cb867c0"
+  },
+  "HoTen": "Nguyễn Ngọc Nhung",
+  "NgayDat": {
+    "$date": {
+      "$numberLong": "1651673978330"
+    }
+  },
+  "TongSL": 3,
+  "DiaChiGH": "Đồng Nai",
+  "ThanhTien": 165000
+},{
+  "_id": {
+    "$oid": "62728bbc5ce98e167cb867c1"
+  },
+  "HoTen": "Võ Văn Tin",
+  "NgayDat": {
+    "$date": {
+      "$numberLong": "1651674044729"
+    }
+  },
+  "TongSL": 2,
+  "DiaChiGH": "GiaLai",
+  "ThanhTien": 235000
+}]

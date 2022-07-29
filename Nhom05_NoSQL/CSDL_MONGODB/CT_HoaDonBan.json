@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "627286f6e1e6ffa899b386af"
+  },
+  "MaHD": "627286da5ce98e3cacd8a534",
+  "MaSP": "SP02",
+  "TenSP": "Cọ Trang Điểm Vacosi Blush & Powder Brush #M03",
+  "SoLuong": 1,
+  "GiaBan": 65000
+},{
+  "_id": {
+    "$oid": "627288c9e1e6ffa899b38824"
+  },
+  "MaHD": "627288c95ce98e3cacd8a535",
+  "MaSP": "SP02",
+  "TenSP": "Cọ Trang Điểm Vacosi Blush & Powder Brush #M03",
+  "SoLuong": 2,
+  "GiaBan": 65000
+},{
+  "_id": {
+    "$oid": "627288c9e1e6ffa899b38826"
+  },
+  "MaHD": "627288c95ce98e3cacd8a535",
+  "MaSP": "SP01",
+  "TenSP": "Bông Phấn Phủ Vacosi Small Round Puff - BP01",
+  "SoLuong": 1,
+  "GiaBan": 20000
+},{
+  "_id": {
+    "$oid": "62728b7ae1e6ffa899b389d3"
+  },
+  "MaHD": "62728b7a5ce98e167cb867c0",
+  "MaSP": "SP02",
+  "TenSP": "Cọ Trang Điểm Vacosi Blush & Powder Brush #M03",
+  "SoLuong": 1,
+  "GiaBan": 65000
+},{
+  "_id": {
+    "$oid": "62728b7ae1e6ffa899b389d5"
+  },
+  "MaHD": "62728b7a5ce98e167cb867c0",
+  "MaSP": "SP50",
+  "TenSP": "Sơn Móng Tay Trendy Nails - The Face Shop",
+  "SoLuong": 2,
+  "GiaBan": 50000
+},{
+  "_id": {
+    "$oid": "62728bbce1e6ffa899b38a30"
+  },
+  "MaHD": "62728bbc5ce98e167cb867c1",
+  "MaSP": "SP12",
+  "TenSP": "Sữa Chống Nắng Shiseido Senka Perfect UV Milk N",
+  "SoLuong": 1,
+  "GiaBan": 160000
+},{
+  "_id": {
+    "$oid": "62728bbce1e6ffa899b38a32"
+  },
+  "MaHD": "62728bbc5ce98e167cb867c1",
+  "MaSP": "SP41",
+  "TenSP": "Kem Tẩy Lông Veet Silk & Fresh Technology",
+  "SoLuong": 1,
+  "GiaBan": 75000
+}]

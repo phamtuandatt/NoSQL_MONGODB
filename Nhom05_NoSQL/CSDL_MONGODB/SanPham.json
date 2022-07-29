@@ -1,0 +1,573 @@
+[{
+  "_id": {
+    "$oid": "62681ff4a31b4323771d13b8"
+  },
+  "TenSP": "Bông Phấn Phủ Vacosi Small Round Puff - BP01",
+  "GiaBan": 20000,
+  "MoTa": "Kích thước vừa vặn, có thể bỏ gọn vào hộp phấn nén. Mặt bông mịn, bám phấn tốt. Mang đến hiệu ứng lớp nền mỏng mịn, tự nhiên.",
+  "SoLuong": 200,
+  "AnhBia": "1.jpg",
+  "MaLoai": "A01",
+  "MaSP": "SP01"
+},{
+  "_id": {
+    "$oid": "62682030a31b4323771d13b9"
+  },
+  "TenSP": "Cọ Trang Điểm Vacosi Blush & Powder Brush #M03",
+  "GiaBan": 65000,
+  "MoTa": "Hỗ trợ dùng để đánh má hồng, cho má hồng đều màu, tươi tắn, tự nhiên... . Có thể dùng để tạo khối, che khuyết điểm cho gương mặt. Có thể dúng để phủ phấn.",
+  "SoLuong": 200,
+  "AnhBia": "2.jpg",
+  "MaLoai": "A01",
+  "MaSP": "SP02"
+},{
+  "_id": {
+    "$oid": "62682cf2a31b4323771d13ca"
+  },
+  "TenSP": "Bộ Cọ Trang Điểm Odbo Beauty Tools",
+  "GiaBan": 150000,
+  "MoTa": "Bộ cọ gọn nhẹ, dễ mang đi du lịch hay bất kì đâu. Lông cọ mềm mại, đàn hồi tốt và dễ bám phấn. Bao gồm các bước makeup cơ bản thích hợp cho những nàng đang bắt đầu tập makeup.",
+  "SoLuong": 200,
+  "AnhBia": "6.jpg",
+  "MaLoai": "A01",
+  "MaSP": "SP03"
+},{
+  "_id": {
+    "$oid": "62682d06a31b4323771d13cb"
+  },
+  "TenSP": "Bông Mút Nee Ni Set Kitten Puff",
+  "GiaBan": 110000,
+  "MoTa": "Set bông mút hình giọt nước với bao bì xinh xắn. Chiếc hộp hình mèo để đượng bông mút veeh sinh hơn. Chất bông xốp mịn, độ đàn hồi, co giãn tốt. Có thể dùng che phủ đến những vùng khó tán đều kem nền như cánh mùi, hốc mắt.",
+  "SoLuong": 200,
+  "AnhBia": "5.jpg",
+  "MaLoai": "A01",
+  "MaSP": "SP04"
+},{
+  "_id": {
+    "$oid": "6269396bf2ca75391b351a4e"
+  },
+  "TenSP": "Nhíp Nối Mi Cong Vacosi Make-Up House #T04",
+  "GiaBan": 50000,
+  "MoTa": "Sản xuất theo công nghệ Hàn Quốc. Chất liệu inox không rỉ. Thiết kế vừa tay cầm, trọng lượng nhẹ.",
+  "SoLuong": 200,
+  "AnhBia": "7.jpg",
+  "MaLoai": "A01",
+  "MaSP": "SP05"
+},{
+  "_id": {
+    "$oid": "62693985f2ca75391b351a4f"
+  },
+  "TenSP": "Cọ Trang Điểm Vacosi Short Shaded Brush #E07",
+  "GiaBan": 35000,
+  "MoTa": "Đa chức năng và linh hoạt khi sử dụng. Kiểu dáng chuyên nghiệp, độc đáo. Bám phấn tốt và mềm mại tuyệt đối cho vùng mắt.",
+  "SoLuong": 200,
+  "AnhBia": "3.jpg",
+  "MaLoai": "A01",
+  "MaSP": "SP06"
+},{
+  "_id": {
+    "$oid": "62693991f2ca75391b351a50"
+  },
+  "TenSP": "Bông Đánh Kem Nền Tam Giác Vacosi",
+  "GiaBan": 35000,
+  "MoTa": "Bông ướt tam giác Pro thuộc dòng sản phẩm chuyên nghiệp, được sản xuất theo tiêu chuẩn Hàn Quốc, là item yêu thích trong cốp trang điểm của phái đẹp.",
+  "SoLuong": 200,
+  "AnhBia": "4.jpg",
+  "MaSP": "SP07",
+  "MaLoai": "A01"
+},{
+  "_id": {
+    "$oid": "626939a4f2ca75391b351a51"
+  },
+  "TenSP": "Bấm Mi Vacosi Beauty Tools Series Eyelash Curle",
+  "GiaBan": 45000,
+  "MoTa": "Tay cầm kẹp được thiết kế từ kim loại chắc chắn, màu đen sang trọng. Định hình mi cong nhanh chóng, hiệu quả. Tăng độ dài đẹp cho mi mắt, hoàn toàn không có hại.",
+  "SoLuong": 200,
+  "AnhBia": "8.jpg",
+  "MaLoai": "A01",
+  "MaSP": "SP08"
+},{
+  "_id": {
+    "$oid": "62693a0bf2ca75391b351a52"
+  },
+  "TenSP": "Mặt Nạ Sum37 Bright Award Bubble-De Mask Black",
+  "GiaBan": 12000,
+  "MoTa": "Mặt nạ sủi bọt thải độc da qua lớp bong bóng, làm sạch sâu lỗ chân lông và làm sáng mịn da. Thành phần bổ sung than hoạt tính hỗ trợ loại bỏ các tế bào chết, bã nhờn, mụn đầu đen, mụn cám ở vùng mũi. Kích thích quá trình sản sinh collagen và làm mềm da, mang lại làn da mượt mà, khô thoáng.",
+  "SoLuong": 200,
+  "AnhBia": "19.jpg",
+  "MaLoai": "A02",
+  "MaSP": "SP09"
+},{
+  "_id": {
+    "$oid": "62693a2cf2ca75391b351a53"
+  },
+  "TenSP": "Sữa Chống Nắng Rohto Skin Aqua Tone Up",
+  "GiaBan": 180000,
+  "MoTa": "Chống mọi tia UV, che phủ tự nhiên, nâng tông da sáng hồng, trong suốt. Tạo hiệu ứng 3D trong suốt nhờ các hạt ngọc trai siêu mịn. Kiểm soát dầu và dưỡng sáng da nhờ Vitamin C và B3 hàm lượng cao. Dạng sữa, thấm nhanh, không gây bết dính.",
+  "SoLuong": 200,
+  "AnhBia": "23.jpg",
+  "MaLoai": "A02",
+  "MaSP": "SP10"
+},{
+  "_id": {
+    "$oid": "62693a39f2ca75391b351a54"
+  },
+  "TenSP": "Nước Tẩy Trang Hoa Hồng Cocoon",
+  "GiaBan": 125000,
+  "MoTa": "Nước tẩy trang hoa hồng cocoon 300ml (rose micellar water) Làm sạch lớp trang điểm, bụi bẩn và bã nhờn trên bề mặt da Cung cấp độ ẩm và làm dịu da.",
+  "SoLuong": 200,
+  "AnhBia": "18.jpg",
+  "MaLoai": "A02",
+  "MaSP": "SP11"
+},{
+  "_id": {
+    "$oid": "62693a50f2ca75391b351a55"
+  },
+  "TenSP": "Sữa Chống Nắng Shiseido Senka Perfect UV Milk N",
+  "GiaBan": 160000,
+  "MoTa": "Sữa chống nắng Senka Perfect UV Milk N giúp bảo vệ da khỏi tác hại của tia UV (tác nhân dẫn đến những đốm nám, sạm trên da). Chỉ số PA++++ giúp chống lại tia UVA, ngăn ngừa hình thành tàn nhang và lão hóa da. Khả năng chống trôi trong nước và mồ hôi tốt, đặc biệt phù hợp với những hoạt động như bơi lội, thể thao.",
+  "SoLuong": 200,
+  "AnhBia": "22.jpg",
+  "MaLoai": "A02",
+  "MaSP": "SP12"
+},{
+  "_id": {
+    "$oid": "62693a62f2ca75391b351a56"
+  },
+  "TenSP": "Mặt Nạ Thiên Nhiên Tonymoly",
+  "GiaBan": 150000,
+  "MoTa": "Mặt nạ dưỡng da thành phần từ thiên nhiên, hiệu quả và an toàn. Thiết kế bao bì nhỏ gọn, tiện dụng. Cấu tạo miếng mặt nạ từ bông mềm. Giúp chăm sóc cho làn da ngày càng trắng sáng hơn.",
+  "SoLuong": 200,
+  "AnhBia": "20.jpg",
+  "MaLoai": "A02",
+  "MaSP": "SP13"
+},{
+  "_id": {
+    "$oid": "62693a75f2ca75391b351a57"
+  },
+  "TenSP": "Nước Tẩy Trang Senka All Clear Milky Water",
+  "GiaBan": 120000,
+  "MoTa": "Công thức mỏng nhẹ độc đáo kết hợp 2 lớp từ nước tẩy trang micellar làm sạch sâu lớp trang điểm đậm cùng Sữa tẩy trang có thanh phần chiết xuất đậu nành Nhật giúp nuôi dưỡng, cấp ẩm cho làn da sạch thoáng, mịn màng, đàn hồi và rạng rỡ. Dịu nhẹ: thích hợp cho mọi loại da. Không chứa dầu, không chứa cồn, không hương liệu, không màu.",
+  "SoLuong": 200,
+  "AnhBia": "17.jpg",
+  "MaLoai": "A02",
+  "MaSP": "SP14"
+},{
+  "_id": {
+    "$oid": "62693a89f2ca75391b351a58"
+  },
+  "TenSP": "Kem Dưỡng Toàn Thân Redwin Vitamin E Cream",
+  "GiaBan": 140000,
+  "MoTa": "Sản phẩm thích hợp cho mọi loại da, đặc biệt dành cho da khô, da bị nứt nẻ, bong tróc, an toàn với cả làn da của trẻ nhỏ và da nhạy cảm. Có thể dùng cho mặt và body, phù hợp với mọi đối tượng nam nữ. Không gây kích ứng cho da nhạy cảm. Công thức dưỡng ẩm chuyên sâu, làm mềm mượt da, phục hồi da khô sạm, mất nước, sần sùi.",
+  "SoLuong": 200,
+  "AnhBia": "21.jpg",
+  "MaLoai": "A02",
+  "MaSP": "SP15"
+},{
+  "_id": {
+    "$oid": "62693a97f2ca75391b351a59"
+  },
+  "TenSP": "Dầu Gội Head & Shoulders Classic Clean Shampoo",
+  "GiaBan": 250000,
+  "MoTa": "Giúp làm sạch nhẹ nhàng tóc và da đầu. Hỗ trợ điều trị da đầu bị gàu. Hương thơm the mát, đem đến cảm giác sảng khoái. Sản phẩm được các chuyên gia da liễu khuyên dùng.",
+  "SoLuong": 200,
+  "AnhBia": "26.jpg",
+  "MaLoai": "A03",
+  "MaSP": "SP16"
+},{
+  "_id": {
+    "$oid": "62693aaaf2ca75391b351a5a"
+  },
+  "TenSP": "Tinh Dầu Dưỡng Tóc Raip R3 Argan Hair Oil",
+  "GiaBan": 140000,
+  "MoTa": "Cung cấp dưỡng tóc và tỏa sáng cho tóc và giúp dưỡng ẩm. Giàu chất dinh dưỡng như vitamin, làm ẩm tóc thô và giúp bảo vệ và tăng cường sức sống cho tóc. Sản phẩm không chứa Paraben (Paraben Free) rất lành tính cho tóc và da.",
+  "SoLuong": 200,
+  "AnhBia": "29.jpg",
+  "MaLoai": "A03",
+  "MaSP": "SP17"
+},{
+  "_id": {
+    "$oid": "626f734649c150a6269f1cf6"
+  },
+  "TenSP": "Tinh Dầu Tràm Lorganic Nguyên Chất 99% (10ml)",
+  "GiaBan": 65000,
+  "MoTa": "Tinh Dầu Tràm Lorganic Nguyên Chất 99% LGN0004 (10ml) được chiết xuất từ lá tràm trà 100% tự nhiên với hương thơm đặc trưng giúp loại bỏ ẩm mốc, mùi hôi trong không khí. Pha loãng tinh dầu với nước và dùng đèn đốt để khuếch tán hương thơm giúp không gian sống thêm sảng khoái, dễ chịu.",
+  "SoLuong": 200,
+  "AnhBia": "58.jpg",
+  "MaLoai": "A08",
+  "MaSP": "SP18"
+},{
+  "_id": {
+    "$oid": "626f737a49c150a6269f1cf8"
+  },
+  "TenSP": "Tinh Dầu Vỏ Quế (100ml) - Nguyên Chất Nhập Khẩu",
+  "GiaBan": 284000,
+  "MoTa": "Mang đến cho bạn không gian sống thoải mái với các mùi hương giúp giảm stress, lấy lại sự an tĩnh. Tinh Dầu Thiên Nhiên Xông Phòng Cao Cấp Giúp Thư Giãn, Đuổi Muỗi Và Thơm Phòng.",
+  "SoLuong": 200,
+  "AnhBia": "57.jpg",
+  "MaLoai": "A08",
+  "MaSP": "SP19"
+},{
+  "_id": {
+    "$oid": "626f739a49c150a6269f1cfa"
+  },
+  "TenSP": "Tinh dầu Vỏ Quế SENSELAB (50ml)",
+  "GiaBan": 149000,
+  "MoTa": "Không hóa chất, không pha trộn trong tất cả các sản phẩm 3- Hàm lượng đảm bảo tiêu chuẩn nguyên liệu dược, giá trị sử dụng cao 4- Hương thơm quyến rũ, nhẹ nhàng, tinh tế, thơm lâu.",
+  "SoLuong": 200,
+  "AnhBia": "60.jpg",
+  "MaLoai": "A08",
+  "MaSP": "SP20"
+},{
+  "_id": {
+    "$oid": "626f73ea49c150a6269f1cfc"
+  },
+  "TenSP": "Tinh Dầu Khuynh Diệp Kobi - Tinh Dầu Thiên Nhiên Nguyên Chất",
+  "GiaBan": 35000,
+  "MoTa": "Với lịch sử phát triển hàng ngàn năm, tinh dầu được mệnh danh là báu vật của thiên nhiên, là tủ thuốc của tự nhiên được phát triển thành phương pháp trị liệu, chăm sóc sức khoẻ, làm đẹp trên toàn thế giới.",
+  "SoLuong": 200,
+  "AnhBia": "54.jpg",
+  "MaLoai": "A08",
+  "MaSP": "SP21"
+},{
+  "_id": {
+    "$oid": "626f742349c150a6269f1cfe"
+  },
+  "TenSP": "Tinh Dầu Xông Phòng Nguyên Chất TIDAMO (50ml)",
+  "GiaBan": 148000,
+  "MoTa": "Tinh Dầu thiên nhiên nguyên chất giúp Xông Thơm Phòng, Khử Khuẩn, Bảo Vệ Sức Khỏe và Đuổi Muỗi.",
+  "SoLuong": 200,
+  "AnhBia": "55.jpg",
+  "MaLoai": "A08",
+  "MaSP": "SP22"
+},{
+  "_id": {
+    "$oid": "626f749049c150a6269f1d00"
+  },
+  "TenSP": "Bộ Gội - Xả TIGI Recovery",
+  "GiaBan": 450000,
+  "MoTa": "Dầu gội dành cho tóc khô xơ hư tổn mức độ 2. (khô, xơ, dễ rối). Dầu gội có chứa phức hợp hạt nano siêu nhỏ (hay còn gọi là hạt silicon siêu nhỏ) bám vào vùng tóc bị hư tổn, bảo vệ sợi tóc khỏi những tác hại môi trường.",
+  "SoLuong": 200,
+  "AnhBia": "28.jpg",
+  "MaLoai": "A03",
+  "MaSP": "SP23"
+},{
+  "_id": {
+    "$oid": "626f74a149c150a6269f1d02"
+  },
+  "TenSP": "Set Dầu Gội Và Dầu Xả Tsubaki Oil Extra Smooth",
+  "GiaBan": 280000,
+  "MoTa": "Dầu gội kết hợp với dầu xả tạo mái tóc suôn mượt. Giúp tóc phục hồi hư tổn vì các tác nhân vật lý. Thành phần chiết xuất từ thiên nhiên tốt cho da đầu. Nuôi dưỡng tóc chắc khỏe từ ngọn cho tới chân tóc.",
+  "SoLuong": 200,
+  "AnhBia": "32.jpg",
+  "MaLoai": "A03",
+  "MaSP": "SP24"
+},{
+  "_id": {
+    "$oid": "626f74b149c150a6269f1d04"
+  },
+  "TenSP": "Bộ Nước Gội & Dầu Xả Mộc Nhu Giảm Rụng Tóc",
+  "GiaBan": 390000,
+  "MoTa": "Bộ Nước Gội & Dầu Xả Mộc Nhu hút sạch mọi độc tố, bụi bẩn, chất cặn bã,.. tích tụ bên trong da đầu, tuyến bã nhờn và nang tóc. Giúp da đầu sạch sâu và loại bỏ ngay tình trạng gàu ngứa, tóc bết dính, rụng tóc, nấm tóc.",
+  "SoLuong": 200,
+  "AnhBia": "27.jpg",
+  "MaLoai": "A03",
+  "MaSP": "SP25"
+},{
+  "_id": {
+    "$oid": "626f74c149c150a6269f1d06"
+  },
+  "TenSP": "Tinh Dầu Dưỡng Tóc Macadamia Healing Oil",
+  "GiaBan": 240000,
+  "MoTa": "Giúp mái tóc bị hư tổn do tiếp xúc với các loại hóa chất lấy lại độ sáng bóng và mềm mượt vốn có. Giúp bổ sung những thành phần nuôi dưỡng có khả năng thẩm thấu rất nhanh vào da đầu. Tinh dầu Macadamia Healing Oil Treatment chuyên dành cho tóc khô và hư tổn.",
+  "SoLuong": 200,
+  "AnhBia": "30.jpg",
+  "MaLoai": "A03",
+  "MaSP": "SP26"
+},{
+  "_id": {
+    "$oid": "626f74d349c150a6269f1d08"
+  },
+  "TenSP": "Dưỡng Tóc Ogx Renewing-Argan Oil Of Morocco",
+  "GiaBan": 230000,
+  "MoTa": "Chiết xuất từ tinh dầu Argan có tác dụng dưỡng ẩm và giữ ẩm cho tóc cực hiệu quả. Thấm sâu và nuôi dưỡng từ bên trong, phục hồi tóc hư tổn gãy rụng. Cung cấp dưỡng chất giúp nuôi dưỡng tóc dày bóng mượt tự nhiên. Hương thơm dịu nhẹ dễ chịu, mang lại cảm giác thư thái thoải mái cho người dùng.",
+  "SoLuong": 200,
+  "AnhBia": "31.jpg",
+  "MaLoai": "A03",
+  "MaSP": "SP27"
+},{
+  "_id": {
+    "$oid": "626f74e149c150a6269f1d0a"
+  },
+  "TenSP": "Dầu Gội Mộc Nhu Thảo Dược Cỏ Mực & Mè Đen",
+  "GiaBan": 250000,
+  "MoTa": "Dầu gội thảo dược Cỏ Mực & Mè Đen được bào chế 100% từ thảo dược thiên nhiên, gồm: Cỏ Mực, Mè Đen, Mã Đề, Bồ kết và Than Hoạt Tính. Với phương thức bào chế đặc biệt, dầu gội thảo dược Cỏ Mực & Mè Đen có khả năng phủ đen tóc bạc nhanh chóng chỉ sau vài lần gội. Đồng thời, sản phẩm còn là giải pháp toàn diện giúp làm sạch da đầu, ngăn ngừa tóc gãy rụng và nuôi dưỡng tóc đen mượt óng ả.",
+  "SoLuong": 200,
+  "AnhBia": "25.jpg",
+  "MaLoai": "A03",
+  "MaSP": "SP28"
+},{
+  "_id": {
+    "$oid": "626f74f149c150a6269f1d0c"
+  },
+  "TenSP": "Che Khuyết Điểm M-ayCreate Facial Hydrating",
+  "GiaBan": 45000,
+  "MoTa": "Che Khuyết Điểm M-ayCreate Facial Hydrating Concealer Stick 9.5gr với công thức không dầu, không hương liệu che mất đi các khuyết điểm nhỏ trên da như mụn, quầng thâm mắt và các đốm nâu nhỏ trên da.",
+  "SoLuong": 200,
+  "AnhBia": "9.jpg",
+  "MaLoai": "A04",
+  "MaSP": "SP29"
+},{
+  "_id": {
+    "$oid": "626f750049c150a6269f1d0e"
+  },
+  "TenSP": "Son Shu Uemura X Onitsuka Tiger Rouge",
+  "GiaBan": 620000,
+  "MoTa": "Dòng son kết hợp với thương hiệu giày đình đám Onitsuka Tiger. Màu son đơn giản, dễ sử dụng, không kén tông da. Chất son mềm mại, lướt nhẹ môi không gây khô hay lộ vân môi. Thỏi son cầm chắc tay, thiết kế ấn tượng.",
+  "SoLuong": 200,
+  "AnhBia": "11.jpg",
+  "MaLoai": "A04",
+  "MaSP": "SP30"
+},{
+  "_id": {
+    "$oid": "626f751849c150a6269f1d10"
+  },
+  "TenSP": "Chải Mi Innisfree Skinny Microcara-Zero",
+  "GiaBan": 180000,
+  "MoTa": "Độ chống trôi siêu việt với chỉ số lên đến 97%. Thiết kế nhỏ gọn, đơn giản với đầu chải thông minh siêu mảnh. Thành phần chiết xuất từ thiên nhiên không gây kích ứng hay rụng mi.",
+  "SoLuong": 200,
+  "AnhBia": "16.jpg",
+  "MaLoai": "A04",
+  "MaSP": "SP31"
+},{
+  "_id": {
+    "$oid": "626f752b49c150a6269f1d12"
+  },
+  "TenSP": "Son Kem Lì Lemonade Perfect Couple Lip 4gr + 3",
+  "GiaBan": 270000,
+  "MoTa": "Làm đầy rãnh môi, che đi các khuyết điểm, giúp cho môi mềm mịn suốt 12h. Thiết kế 2 đầu mới lạ với 1 đầu Lip Filler, 1 đầu son kem bán lì. Tạo hiệu ứng môi căng mọng, mềm mịn, không bị lộ vân môi khi sử dụng với bất kì kem lỳ nào, giúp sắc màu son bật lên đúng màu.",
+  "SoLuong": 200,
+  "AnhBia": "13.jpg",
+  "MaLoai": "A04",
+  "MaSP": "SP32"
+},{
+  "_id": {
+    "$oid": "626f754249c150a6269f1d14"
+  },
+  "TenSP": "Kem Che Khuyết Điểm The Face Shop Dual Veil",
+  "GiaBan": 170000,
+  "MoTa": "Một đầu dạng thỏi cây son và một đầu dạng lỏng cây cọ. Chất kem sắc hồng dễ dàng che đi quầng thâm, lỗ chân lông. Chất kem đặc có thể che hết mọi khuyết điểm. Chất kem mịn và mướt ở hai dạng lỏng và sáp.",
+  "SoLuong": 200,
+  "AnhBia": "10.jpg",
+  "MaLoai": "A04",
+  "MaSP": "SP33"
+},{
+  "_id": {
+    "$oid": "626f755449c150a6269f1d16"
+  },
+  "TenSP": "Phấn Má Hồng Nee Cara LeoPard Live Free 6 Color",
+  "GiaBan": 120000,
+  "MoTa": "Bảng phấn bao gồm 6 ô màu to bự thoải mái sử dụng. Màu sắc hài hòa từ nhẹ nhàng đến ấn tượng. Chất phấn mịn màng và giữ màu lâu.",
+  "SoLuong": 200,
+  "AnhBia": "15.jpg",
+  "MaLoai": "A04",
+  "MaSP": "SP34"
+},{
+  "_id": {
+    "$oid": "626f756649c150a6269f1d18"
+  },
+  "TenSP": "Kem Dưỡng Da Tay Rebirth Placenta Wild Rose",
+  "GiaBan": 130000,
+  "MoTa": "Kem dưỡng da tay Rebirth Placenta Wild Rose Hand Cream giúp làm mờ các đốm nâu trên da do lão hóa, nuôi dưỡng móng mà không gây nhờn dính, mang đến bạn cảm giác thoải mái cả ngày dài.",
+  "SoLuong": 200,
+  "AnhBia": "34.jpg",
+  "MaLoai": "A05",
+  "MaSP": "SP35"
+},{
+  "_id": {
+    "$oid": "626f757849c150a6269f1d1a"
+  },
+  "TenSP": "Tẩy Da Chết Toàn Thân Organic Shop Body",
+  "GiaBan": 120000,
+  "MoTa": "Lấy sạch các tế bào da chết, cho da thoáng sạch. Giúp tái tạo da, cho làn da mềm mại, đàn hồi tốt. Hương chocolate ngọt ngào. Không chất tẩy, không chất bảo quản.",
+  "SoLuong": 200,
+  "AnhBia": "35.jpg",
+  "MaLoai": "A05",
+  "MaSP": "SP36"
+},{
+  "_id": {
+    "$oid": "626f758b49c150a6269f1d1c"
+  },
+  "TenSP": "Cocoon Gel Tắm Bí Đao",
+  "GiaBan": 245000,
+  "MoTa": "Gel tắm bí đao giúp da sạch mịn màng và giảm mụn lưng. Tinh dầu sả chanh giảm mùi cơ thể, tạo cảm giác sảng khoái, thư giãn.",
+  "SoLuong": 200,
+  "AnhBia": "39.jpg",
+  "MaLoai": "A05",
+  "MaSP": "SP37"
+},{
+  "_id": {
+    "$oid": "626f759d49c150a6269f1d1e"
+  },
+  "TenSP": "Kem Dưỡng Da Tay Chocopie Hand Cream Marshmallow",
+  "GiaBan": 120000,
+  "MoTa": "Chiết xuất từ bơ hạt mỡ, hạt ca cao, hoa mười giờ và 'kẹo dẻo' marshmallow. Cung cấp độ ẩm và dưỡng chất tức thì, cho đôi tay khô ráp nhanh chóng trở nên mềm mịn, dễ chịu hơn chỉ sau vài lần sử dụng. Hương thơm từ bơ hạt mỡ (hơi giống mùi dừa) sẽ mang lại cho bạn cảm giác thích thú.",
+  "SoLuong": 200,
+  "AnhBia": "33.jpg",
+  "MaLoai": "A05",
+  "MaSP": "SP38"
+},{
+  "_id": {
+    "$oid": "626f75ab49c150a6269f1d20"
+  },
+  "TenSP": "Gel Tẩy Tế Bào Chết Much More Crush Aqua",
+  "GiaBan": 190000,
+  "MoTa": "Loại bỏ tế bào chết trên da một cách nhẹ nhàng. Không gây đat rát hay khó chịu cho da. Dưỡng da ẩm mướt, mịn màng đầy sức sống. Tái tạo da và chống lão hóa cực tốt.",
+  "SoLuong": 200,
+  "AnhBia": "36.jpg",
+  "MaLoai": "A05",
+  "MaSP": "SP39"
+},{
+  "_id": {
+    "$oid": "626f75ba49c150a6269f1d22"
+  },
+  "TenSP": "'Wax Lông All Wax All New Perfect Strips Body",
+  "GiaBan": 80000,
+  "MoTa": "Sản phẩm tẩy lông tiện lợi, nhanh chóng dễ dàng. Thành phần thiên nhiên giúp lấy lông đến tận gốc, đồng thời loại bỏ bụi bẩn từ sâu trong lỗ chân lông. Lỗ chân lông sẽ được thông thoáng và thu nhỏ, và các dưỡng chất sẽ làm làn da sẽ trở nên mềm mại, ẩm mịn hơn.",
+  "SoLuong": 200,
+  "AnhBia": "37.jpg",
+  "MaLoai": "A05",
+  "MaSP": "SP40"
+},{
+  "_id": {
+    "$oid": "626f75cc49c150a6269f1d24"
+  },
+  "TenSP": "Kem Tẩy Lông Veet Silk & Fresh Technology",
+  "GiaBan": 75000,
+  "MoTa": "Tẩy sạch lông vùng tay, chân, nách cho bạn làn da trơn mịn. Tẩy lông nhẹ nhàng, dưỡng và giữ ẩm cho làn da hiệu quả. Thành phần chiết xuất thảo dược thiên nhiên, bổ sung thêm dưỡng chất không gây tổn thương vùng da triệt lông. Thích hợp với da thường.",
+  "SoLuong": 200,
+  "AnhBia": "38.jpg",
+  "MaLoai": "A05",
+  "MaSP": "SP41"
+},{
+  "_id": {
+    "$oid": "626f75dd49c150a6269f1d26"
+  },
+  "TenSP": "Xà Phòng Tắm Pelican Ichigo Milk Flavor",
+  "GiaBan": 35000,
+  "MoTa": "Chiết xuất sữa và dâu tây nhẹ nhàng làm sáng da. Làm sạch sâu lỗ chân lông. Nuôi dưỡng da sáng mịn, trắng lên từng ngày.",
+  "SoLuong": 200,
+  "AnhBia": "40.jpg",
+  "MaLoai": "A05",
+  "MaSP": "SP42"
+},{
+  "_id": {
+    "$oid": "626f75ee49c150a6269f1d28"
+  },
+  "TenSP": "Nước Hoa Mini Elizabeth Arden Red Door 5ml",
+  "GiaBan": 180000,
+  "MoTa": "Nhóm hương: Oriental Floral. Phong cách: Quyến rũ, sang trọng, nữ tính.",
+  "SoLuong": 200,
+  "AnhBia": "49.jpg",
+  "MaLoai": "A06",
+  "MaSP": "SP43"
+},{
+  "_id": {
+    "$oid": "626f75fb49c150a6269f1d2a"
+  },
+  "TenSP": "Nước Hoa Nam Venus Global Beauty Gota Perfume",
+  "GiaBan": 260000,
+  "MoTa": "Ngoại hình hay nhan sắc không hẳn là thứ vũ khí duy nhất giúp bạn tạo ấn tượng với người đối diện. Bên cạnh một phong thái đỉnh đạc hay quyến rũ, thì hương thơm chính là bí quyết giúp bạn trở nên thu hút và chiếm được cảm tình với người đối diện.",
+  "SoLuong": 200,
+  "AnhBia": "51.jpg",
+  "MaLoai": "A06",
+  "MaSP": "SP44"
+},{
+  "_id": {
+    "$oid": "626f760c49c150a6269f1d2c"
+  },
+  "TenSP": "Xịt Thơm Toàn Thân Victoria Secret",
+  "GiaBan": 260000,
+  "MoTa": "Xịt thơm body Victoria’s Secret hương thơm đa dạng, bạn yêu thích mùi hương ngọt ngào, sexy lôi cuốn hay nhẹ nhàng, lãng mạn đều có thể tìm thấy từ thương hiệu này.",
+  "SoLuong": 200,
+  "AnhBia": "52.jpg",
+  "MaLoai": "A06",
+  "MaSP": "SP45"
+},{
+  "_id": {
+    "$oid": "626f761d49c150a6269f1d2e"
+  },
+  "TenSP": "Nước Hoa Gucci Bloom Eau De Parfum 2018",
+  "GiaBan": 350000,
+  "MoTa": "Phiên bản ra mắt mùa xuân 2018. Thiết kế tối giản và hương thơm phù hợp cho những cô nàng cổ điển, lãng mạn.",
+  "SoLuong": 200,
+  "AnhBia": "47.jpg",
+  "MaLoai": "A06",
+  "MaSP": "SP46"
+},{
+  "_id": {
+    "$oid": "626f762a49c150a6269f1d30"
+  },
+  "TenSP": "Nước Hoa Dạng Lăn Victoria Secret Eau De",
+  "GiaBan": 270000,
+  "MoTa": "Nước hoa mini với các mùi hương quyến rũ, ngọt ngòa đến từ Thương hiệu Victoria Secret. Thiết kế dạng ống lăn thuận tiện cho bạn dễ dàng mang đi bất cứ đâu trong chuyến du lịch hè. Lưu hương thơm lâu cho bạn phong thái tự tin nơi chốn đông người.",
+  "SoLuong": 200,
+  "AnhBia": "46.jpg",
+  "MaLoai": "A06",
+  "MaSP": "SP47"
+},{
+  "_id": {
+    "$oid": "626f764049c150a6269f1d32"
+  },
+  "TenSP": "Xịt Thơm Bath & Body Works Fine Fragrance Mist",
+  "GiaBan": 280000,
+  "MoTa": "Mùi hương nồng nàn quyến rũ. Được pha trộn từ hương hoa lê, hoa anh đào và gỗ đàn hương. Mát dịu cho làn da của bạn. Dạng xịt rất dễ sử dụng.",
+  "SoLuong": 200,
+  "AnhBia": "53.jpg",
+  "MaLoai": "A06",
+  "MaSP": "SP48"
+},{
+  "_id": {
+    "$oid": "626f766b49c150a6269f1d34"
+  },
+  "TenSP": "Sơn Móng 3CE Stylenanda Long Lasting Nail",
+  "GiaBan": 120000,
+  "MoTa": "Dòng sơn móng tay có chất lượng & màu sắc cực kì tốt. Màu sơn 3CE giữ màu bền lâu. Cọ mềm & dễ sử dụng, Màu sắc đa dạng.",
+  "SoLuong": 200,
+  "AnhBia": "42.jpg",
+  "MaLoai": "A07",
+  "MaSP": "SP49"
+},{
+  "_id": {
+    "$oid": "626f767f49c150a6269f1d36"
+  },
+  "TenSP": "Sơn Móng Tay Trendy Nails - The Face Shop",
+  "GiaBan": 50000,
+  "MoTa": "Sơn móng tay The Face Shop Trendy Nails là sơn móng Hàn Quốc với gam màu thời trang phong phú đa dạng cho mọi sở thích của bạn, phù hợp với tất cả các style, sở thích khác nhau của phái đẹp, không bao giờ lỗi mốt, cực fashionable và trẻ trung.",
+  "SoLuong": 200,
+  "AnhBia": "43.jpg",
+  "MaLoai": "A07",
+  "MaSP": "SP50"
+},{
+  "_id": {
+    "$oid": "626f769149c150a6269f1d38"
+  },
+  "TenSP": "Sơn Móng 3 Concept Eyes",
+  "GiaBan": 110000,
+  "MoTa": "Sơn móng 3CE Eyes Nail Lacquer trơn, không nhũ, nước sơn trong & bền màu, nhiều tone màu hiện đại, trẻ trung. Lên màu chuẩn không làm khô gãy móng, với thành phần cao cấp không làm vàng móng, giòn móng...",
+  "SoLuong": 200,
+  "AnhBia": "45.jpg",
+  "MaLoai": "A07",
+  "MaSP": "SP51"
+},{
+  "_id": {
+    "$oid": "626f7abb49c150a6269f1d3a"
+  },
+  "TenSP": "Sơn Móng L.A Colors Nail Duet",
+  "GiaBan": 50000,
+  "MoTa": "Sơn móng tích hợp 2 màu thông minh, bao gồm 1 màu nhũ tuyến và một màu sơn lì. Nhiều màu đa dạng, thỏa sức cho bạn gái làm đẹp. Chất sơn mềm mịn, mướt nhẹ như lướt trên móng. Cọ mềm dễ thao tác và không gây vàng móng sau khi sử dụng.",
+  "SoLuong": 200,
+  "AnhBia": "44.jpg",
+  "MaLoai": "A07",
+  "MaSP": "SP52"
+}]

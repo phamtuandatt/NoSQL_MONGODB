@@ -1,0 +1,101 @@
+﻿@{
+    ViewBag.Title = "DangKy";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+
+
+<style>
+    .abc .text-box {
+        height: 35px;
+        width: 100%;
+    }
+</style>
+
+@model  Nhom05_NoSQL.Models.KhachHang
+<h1 class="title-head" style="color:black;text-align:center;   text-transform: uppercase; font-size: 22px; width:100%; margin-bottom: 20px;  font-weight: 500;  margin-top: 20px;">
+    <span>Đăng ký tài khoản</span>
+</h1>
+@using (Html.BeginForm())
+{
+    @*@Html.AntiForgeryToken()*@
+
+
+
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="well well-sm" style="padding: 9px; border-radius: 3px; width:100%;margin-bottom: 20px;background-color: #f5f5f5;border: 1px solid #e3e3e3;">
+        <div class="row">
+
+            <div class="col-md-6">
+                <fieldset class="form-group">
+                    <fieldset class="form-group">
+                        <label style="display: inline-block; max-width: 100%;    margin-bottom: 5px; float:left;   font-weight: 700;"> Ten DN:</label>
+                        @Html.TextBoxFor(model => model.Username, new { @class = "form-control", placeHolder = "" })
+                        @Html.ValidationMessageFor(model => model.Username, "", new { @class = "text-danger" })
+                    </fieldset>
+                </fieldset>
+            </div>
+
+            <div class="col-md-6">
+                <fieldset class="form-group">
+                    <label style="display: inline-block; max-width: 100%;    margin-bottom: 5px;  float:left;  font-weight: 700;"> Mật Khẩu:</label>
+                    @Html.PasswordFor(model => model.Pass, new { @class = "form-control", placeHolder = "", ValueType = "PassWord" })
+                    @Html.ValidationMessageFor(model => model.Pass, "", new { @class = "text-danger" })
+                </fieldset>
+            </div>
+            <div class="col-md-6">
+                <fieldset class="form-group">
+                    <label style="display: inline-block; max-width: 100%;    margin-bottom: 5px;  float:left;  font-weight: 700;"> Tên Khách Hàng:</label>
+                    @Html.TextBoxFor(model => model.HoTen, new { @class = "form-control", placeHolder = "" })
+                    @Html.ValidationMessageFor(model => model.HoTen, "", new { @class = "text-danger" })
+                </fieldset>
+            </div>
+
+            <div class="col-md-6">
+                <fieldset class="form-group">
+                    <label style="display: inline-block; max-width: 100%;    margin-bottom: 5px; float:left;   font-weight: 700;"> SDT:</label>
+                    @Html.TextBoxFor(model => model.Sdt, new { @class = "form-control", placeHolder = "" })
+                    @Html.ValidationMessageFor(model => model.Sdt, "", new { @class = "text-danger" })
+                </fieldset>
+            </div>
+            <div class="col-md-6">
+                <fieldset class="form-group">
+                    <label style="display: inline-block; max-width: 100%;    margin-bottom: 5px; float:left;   font-weight: 700;"> Dia Chi:</label>
+                    @Html.TextBoxFor(model => model.DiaChi, new { @class = "form-control", placeHolder = "" })
+                    @Html.ValidationMessageFor(model => model.DiaChi, "", new { @class = "text-danger" })
+                </fieldset>
+            </div>
+            <div class="col-md-6">
+                <fieldset class="form-group">
+                    <label style="display: inline-block; max-width: 100%;    margin-bottom: 5px;  float:left;  font-weight: 700;">Ngày Sinh:</label>
+                    <div class="abc">
+                        @*<input type="date"   name="NgaySinh" style="width: 100%; margin-top: 29px;" class="form-control" />*@
+                        @Html.TextBoxFor(model => model.NgaySinh, new { @type = "date", @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.NgaySinh, "", new { @class = "text-danger" })
+                    </div>
+                </fieldset>
+            </div>
+
+
+
+
+            <div class="col-md-6">
+                <fieldset class="form-group">
+                    <label style="display: inline-block; max-width: 100%;    margin-bottom: 5px; float:left;   font-weight: 700;">Giới Tính:</label>
+                    <div class="abc">
+                        @Html.RadioButtonFor(Model => Model.GioiTinh, "Nam") Nam &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                        @Html.RadioButtonFor(Model => Model.GioiTinh, "Nữ")Nữ
+                    </div>
+                </fieldset>
+            </div>
+        </div>
+        <div class="row" style="padding-left:16%">
+            <div class="col-md-offset-2 col-md-10">
+                <input style="background-color:#0094ff" type="submit" value="Đăng ký" class="btn btn-success" />
+            </div>
+        </div>
+
+    </div>
+}
+
+
